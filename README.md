@@ -30,3 +30,5 @@ Repository içerisinde TIA Portal V18 ile oluşturulmuş `.zap18` proje arşivi 
 ## Ladder Diyagramı
 
 Programın Ladder diyagramı aşağıda gösterilmektedir.
+
+![Motor İleri-Geri Elektriksel Kilitleme Ladder Diyagramı](motor-elektriksel-kilitleme-ladder.png)
